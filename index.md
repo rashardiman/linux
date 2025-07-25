@@ -31,8 +31,12 @@ OBJECT                            = MISSION
     MISSION_STOP_DATE             = NULL [CATFiLE @stateofcalifornia @cityoflosangeles @nasa @nasa-jpl @podaac](https://naif.jpl.nasa.gov/pub/naif/pds/data/jno-j_e_ss-spice-6-v1.0/jnosp_1000/catalog/mission.cat)
     
 ### 
+[SPACE DOCTRINE PUBLICATION 3-0 @nasa @nasa-jpl PDF](https://www.starcom.spaceforce.mil/Portals/2/SDP%203-0%20Operations%20%2819%20July%202023%29_1.pdf)
 
-
+[Strategic
+Cyberspace Operations
+Guide
+28 September 2022](https://media.defense.gov/2023/Oct/02/2003312499/-1/-1/0/STRATEGIC_CYBERSPACE_OPERATIONS_GUIDE.PDF)
 
 [NasaJUNO "INNER CRUISE 1"](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0001/DATA/EDR/CRUISE/JNCE_2011238_00A00004_V01.LBL) [img](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0005/EXTRAS/BROWSE/RDR/CRUISE/JNCR_2011238_00A00004_V02.PNG) [RDR/EFB/JNCR_2013282_00M00101_V02.PNG](https://planetarydata.jpl.nasa.gov/img/data/juno/JNOJNC_0004/EXTRAS/BROWSE/RDR/EFB/JNCR_2013282_00M00101_V02.PNG) 
 
